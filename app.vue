@@ -1,8 +1,8 @@
 
 <template>
   <div>
-    <Dummy />
-    <Dummy />
+    <ContentDummy />
+    <ContentDummy />
 
     <NuxtWelcome />
   </div>
