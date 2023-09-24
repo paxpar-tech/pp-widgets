@@ -14,8 +14,7 @@
     "nuxt": "^3.7.3"
   },
   "dependencies": {
-    "@nuxt-themes/docus": "^1.14.6",
-    "@nuxt/kit": "^3.7.3"
+    "@nuxt-themes/docus": "^1.14.6"
   },
   "files": [
     "app",
